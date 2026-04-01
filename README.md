@@ -24,28 +24,32 @@ Knowing this, I was able to deduce that the number before the dot indicated the 
 With this information, I was able to map each part of the puzzle to a char:
 
 FLAG SPOILERS BELOW
-<details>
-<summary>
-2.7 - " S"
-7.4 - "A"
-2.1 - "N"
-11.0 - "S"
 
-1.7 - "P"
-3.0 - "R"
-10.1 - "O"
-0.8 - "M"
-4.1 - "I"
-6.2 - "S"
-9.4 - "E"
-</summary>
+<details>
+<summary>Click to reveal the letter hints</summary>
+
+2.7 - " S"  
+7.4 - "A"  
+2.1 - "N"  
+11.0 - "S"  
+
+1.7 - "P"  
+3.0 - "R"  
+10.1 - "O"  
+0.8 - "M"  
+4.1 - "I"  
+6.2 - "S"  
+9.4 - "E"  
+
 </details>
 
 Therefore, the flag is:
+
 <details>
-<summary>
+<summary>Click to reveal the flag</summary>
+
 SANS PROMISE
-</summary>
+
 </details>
 
 And yeah, thats how you do the SANS 2026 Shirt Challenge.
