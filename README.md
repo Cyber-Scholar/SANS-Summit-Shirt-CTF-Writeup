@@ -57,3 +57,4 @@ And yeah, thats how you do the SANS 2026 Shirt Challenge.
 ## Step #5: Win Netwars?
 If you are a CTFer and/or cracked out of your mind, please DM me on Slack/Linkedin/Discord if you would like to join my team. I'm trying to win non-military ToC
 and I can't do it solo.
+EDIT: I got 3rd. Yippee!
